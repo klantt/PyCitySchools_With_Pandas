@@ -16,7 +16,7 @@
   
   -Lastly looking at the two school types and the differences in budget really seemed to make a difference in overall passing percents and grades being higher. It seems that the more money a school has access to the more resources teachers and staff have at there disposal to improve a students learning experience and educational. 
   
-  ![](Budget_Per_School.png)
+  ![](Resources/Budget_Per_School.png)
   
 ## Summary
   -In coclusion a few major changes I noticed in the data was that budget is key. The district schools have a major disadvantage at providing a better educational experience for kids in all four grades analyzed. Second it seemed the difference in being a charter versus a district school as shown above the average grades are just better across the board. I'm sure the budget being so much larger per student/school in the charter system has everything to do with that outcome. It seems that is the overall recurring event/variable in this data set analysis. 
