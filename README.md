@@ -7,12 +7,12 @@
   -In the results that I found while going over the data collected I found a few interesting points that differt from school type to budget and size. Below I will list a few key differences and outcomes. 
   -First I found that school type definitely had an affect on average grades and overall passing. For example charter schools seemed to outperform district schools in both reading averages and math averages.
   
-  ![](Charter_Scores.png)
-  ![](District_Scores)
+  ![](Resources/Charter_Scores.png)
+  ![](Resources/District_Scores)
   
   -Another trend I noticed was the average math scores and reading scores across grades 9, 10, 11, and 12 are all relatively the same and consistent. 
   
-  ![](Grades_Scores)
+  ![](Rescources/Grades_Scores)
   
   -Lastly looking at the two school types and the differences in budget really seemed to make a difference in overall passing percents and grades being higher. It seems that the more money a school has access to the more resources teachers and staff have at there disposal to improve a students learning experience and educational. 
   
