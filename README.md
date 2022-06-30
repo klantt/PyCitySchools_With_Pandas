@@ -12,7 +12,7 @@
   
   -Another trend I noticed was the average math scores and reading scores across grades 9, 10, 11, and 12 are all relatively the same and consistent. 
   
-  ![](Rescources/Grades_Scores.png)
+  ![](Resources/Grades_Scores.png)
   
   -Lastly looking at the two school types and the differences in budget really seemed to make a difference in overall passing percents and grades being higher. It seems that the more money a school has access to the more resources teachers and staff have at there disposal to improve a students learning experience and educational. 
   
